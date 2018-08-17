@@ -4,3 +4,8 @@
 [Build]
   Publish = ""
   Functions = ""
+
+[[redirects]]
+  from = "http://acafaf-505606015.netlify.com/*"
+  to = "http://andrewhudson.me/:splat"
+  status = 301
