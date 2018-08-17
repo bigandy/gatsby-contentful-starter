@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://acafaf-505606015.netlify.com/* http://andrewhudson.me/:splat 301!
